@@ -1,5 +1,11 @@
 # Company Recording To Postable Clip
 
+## Use When
+
+Use this when a team knows a useful moment happened in a meeting, event, webinar, or internal recording but does not have a clean clip ready to share.
+
+## What It Does
+
 Finds a source recording, locates a fuzzy spoken moment, trims a tight clip, and routes approval/handoff.
 
 ## Inputs

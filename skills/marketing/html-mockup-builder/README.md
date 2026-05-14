@@ -1,5 +1,11 @@
 # HTML Mockup Builder
 
+## Use When
+
+Use this when a team needs to see a landing page, product page, or campaign concept before asking design or engineering for help.
+
+## What It Does
+
 Builds single-file HTML mockups from campaign or page context.
 
 ## Inputs

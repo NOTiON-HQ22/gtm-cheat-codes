@@ -1,5 +1,11 @@
 # No Lead Left Behind Lead Treatment Audit
 
+## Use When
+
+Use this when Marketing Ops or SDR leadership needs to find missed, slow, or low-quality follow-up.
+
+## What It Does
+
 Audits lead treatment quality, flags missed or low-quality follow-up, and creates owner-ready actions.
 
 ## Inputs

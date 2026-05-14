@@ -1,5 +1,11 @@
 # Friday Unconverted MQL Audit Sync
 
+## Use When
+
+Use this when the team needs a weekly closeout view of unconverted MQLs and follow-up accountability.
+
+## What It Does
+
 End-of-week sync/check on hand-raiser audit status and reporting.
 
 ## Status

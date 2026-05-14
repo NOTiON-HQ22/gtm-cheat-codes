@@ -1,5 +1,11 @@
 # No Lead Left Behind Standup Brief
 
+## Use When
+
+Use this when a meeting needs a short update on movement, blockers, and owner actions instead of a long lead dump.
+
+## What It Does
+
 Concise checkpoint brief focused on movement and blockers.
 
 ## Status

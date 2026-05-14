@@ -1,6 +1,6 @@
 # GTM Coding Agent Skills
 
-Coding agents give GTM teams superpowers.
+Coding agents can help GTM teams turn scattered context into reviewable work products.
 
 This repo is a practical starter kit for GTM teams that want to use coding agents such as Codex, Claude Code, Cursor, and similar harnesses to automate repeatable work with real business context and human approval.
 
@@ -13,14 +13,17 @@ This is not just a prompt library. It is a field guide for turning repeatable GT
 - **Governance:** identity, permissions, approval gates, audit trails, and safe writeback.
 - **Harnesses:** Codex, Claude Code, Cursor, Sidekick, ChatGPT, and other agent environments.
 
-## What GTM Leaders Can Use This For
+## Start With The Business Problem
 
-These skills are organized around practical GTM outcomes:
+If you are a marketing, sales, or ops leader, start here:
 
-- **Campaign acceleration:** turn briefs, launch notes, and source docs into review-ready campaigns and landing page mockups.
-- **Lead follow-up QA:** identify missed, slow, or low-quality follow-up and create owner-ready actions.
-- **Account prioritization:** find high-intent accounts, rank why-now signals, and recommend the next best move.
+- **Campaign planning:** turn briefs, launch notes, and source docs into campaign packages and page mockups.
+- **Campaign learning:** turn campaign data and team feedback into a sourced postmortem with clear next actions.
+- **Lead follow-up QA:** find missed, slow, or low-quality follow-up and create owner-ready actions.
+- **Account prioritization:** rank target accounts by why-now signals and recommend the next move.
 - **Sales personalization:** draft rep-ready outreach from CRM, product usage, and buyer context.
+- **Customer proof:** find approved customer stories, quotes, stats, and peer examples for campaigns or sales.
+- **Customer storytelling:** turn approved interviews, notes, and proof points into customer story drafts.
 - **Content repurposing:** turn meetings and recordings into approved clips and distribution handoffs.
 
 For a plain-English overview of each skill, start with `docs/vp-marketing-skill-breakdown.md`.
@@ -28,6 +31,7 @@ For a plain-English overview of each skill, start with `docs/vp-marketing-skill-
 ## Repository Map
 
 - `skills/marketing/`
+- `skills/customer-advocacy/`
 - `skills/sales-revops/`
 - `skills/gtm-ops/`
 - `skills/content-ops/`

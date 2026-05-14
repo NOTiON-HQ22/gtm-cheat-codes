@@ -1,5 +1,11 @@
 # Find Lead Account Owner
 
+## Use When
+
+Use this when a lead needs follow-up but the correct account or lead owner is unclear.
+
+## What It Does
+
 Resolves the correct owner for a lead with a strict contact, company, deal fallback order.
 
 ## Inputs

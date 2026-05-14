@@ -1,5 +1,11 @@
 # Named Account Trigger Radar
 
+## Use When
+
+Use this when sales, ABM, or RevOps needs to know which target accounts deserve attention now.
+
+## What It Does
+
 Ranks named accounts by actionability and turns signals into owner-ready next moves.
 
 ## Inputs

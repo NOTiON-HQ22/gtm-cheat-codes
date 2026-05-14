@@ -1,5 +1,11 @@
 # Daily Notable Lead Audit
 
+## Use When
+
+Use this when the team needs a daily check on new high-intent leads and whether they are moving toward meetings.
+
+## What It Does
+
 Daily new-source audit plus booked-meeting tracker for high-intent leads.
 
 ## Status

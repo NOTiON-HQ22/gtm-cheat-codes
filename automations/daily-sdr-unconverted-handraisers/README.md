@@ -1,5 +1,11 @@
 # Daily Unconverted Hand-Raisers - SDR Call List
 
+## Use When
+
+Use this when SDRs need a focused daily call list of high-intent hand-raisers who have not converted.
+
+## What It Does
+
 Daily SDR operating summary for unconverted hand-raisers to call and work.
 
 ## Status

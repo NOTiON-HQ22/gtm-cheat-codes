@@ -1,5 +1,11 @@
 # Clip Request Intake
 
+## Use When
+
+Use this when content, social, comms, or events teams need a clean way to request a clip from a recording.
+
+## What It Does
+
 Collects source recording, target quote, approval owner, and destination for a clip request.
 
 ## Status

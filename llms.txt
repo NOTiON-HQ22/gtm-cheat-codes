@@ -16,6 +16,8 @@ This repository helps coding agents understand and use GTM workflows with Zapier
 ## Core Skill Areas
 
 - Marketing campaign generation.
+- Campaign postmortems and retrospectives.
+- Customer proof discovery and customer story writing.
 - Sales sequence building.
 - Named account trigger detection.
 - Lead treatment audits and lead stewardship.

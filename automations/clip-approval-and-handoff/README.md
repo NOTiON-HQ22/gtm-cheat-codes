@@ -1,5 +1,11 @@
 # Clip Approval And Handoff
 
+## Use When
+
+Use this when a clip is ready but still needs approval, logging, and distribution coordination.
+
+## What It Does
+
 Routes rendered clips for approval, logs assets, and creates distribution handoff tasks.
 
 ## Status

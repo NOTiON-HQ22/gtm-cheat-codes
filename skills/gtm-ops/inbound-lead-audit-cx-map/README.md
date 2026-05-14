@@ -1,5 +1,11 @@
 # Inbound Lead Audit + CX Map
 
+## Use When
+
+Use this when a leader wants to understand what happened after a high-intent lead raised their hand.
+
+## What It Does
+
 Audits inbound lead handling and maps the customer experience from form fill or hand raise to follow-up.
 
 ## Inputs

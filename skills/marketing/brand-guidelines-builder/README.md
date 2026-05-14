@@ -1,5 +1,11 @@
 # Brand Guidelines Builder
 
+## Use When
+
+Use this when marketers or non-designers need a first-pass review of copy, designs, or ideas against brand rules.
+
+## What It Does
+
 Helps non-designers evaluate creative assets or ideas against brand guidelines.
 
 ## Inputs

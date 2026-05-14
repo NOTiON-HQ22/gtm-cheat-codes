@@ -1,5 +1,11 @@
 # AI Audit Account Report
 
+## Use When
+
+Use this when a seller needs a practical account brief for an AI adoption, expansion, or consultation conversation.
+
+## What It Does
+
 Builds account-specific AI audit packages from usage data, adoption gaps, and rep-ready follow-up.
 
 ## Inputs

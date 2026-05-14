@@ -1,5 +1,11 @@
 # Mega Campaign Generator
 
+## Use When
+
+Use this when a team has campaign context scattered across briefs, notes, docs, and conversations but needs a clear launch package.
+
+## What It Does
+
 Turns campaign notes, GTM discussions, and source documents into a review-first outbound campaign package.
 
 ## Inputs

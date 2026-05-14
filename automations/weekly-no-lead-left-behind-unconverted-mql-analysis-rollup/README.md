@@ -1,5 +1,11 @@
 # Weekly No Lead Left Behind Unconverted MQL Analysis Rollup
 
+## Use When
+
+Use this when leaders need weekly patterns across unconverted MQLs and hand-raiser follow-up quality.
+
+## What It Does
+
 Weekly trend analysis for unconverted MQLs and hand-raiser follow-up quality.
 
 ## Status

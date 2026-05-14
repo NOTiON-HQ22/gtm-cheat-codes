@@ -1,5 +1,11 @@
 # Sales Sequence Builder
 
+## Use When
+
+Use this when a seller needs relevant outreach but only has rough account context, a trigger, and a call to action.
+
+## What It Does
+
 Builds or refines personalized outbound, follow-up, re-engagement, and signal-based sales sequences.
 
 ## Inputs

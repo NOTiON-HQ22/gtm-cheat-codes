@@ -1,5 +1,11 @@
 # Daily Lead Steward
 
+## Use When
+
+Use this when managers need a daily operating view of high-intent leads that need attention, follow-up, or escalation.
+
+## What It Does
+
 Maintains a daily cockpit for high-intent enterprise and large-enterprise leads.
 
 ## Inputs
