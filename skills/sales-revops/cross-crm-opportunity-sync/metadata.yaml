@@ -20,7 +20,7 @@ tool_dependencies:
 target_user: "RevOps, Sales Ops, MIS, and business-unit operators"
 review_recommended: true
 inspired_by:
-  company: "Voltt, consulting Cyncly"
+  company: "Voltt"
   champion: "William Ascough"
   story_url: "https://zapier.com/blog/voltt-operators-integration"
   key_metric: "Reference implementation collapsed roughly 230 hours per year of bundled-deal reconciliation work"

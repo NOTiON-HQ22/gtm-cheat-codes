@@ -49,4 +49,4 @@ Use this skill when a company runs multiple CRMs and needs one deal, account, or
 
 ## Inspired By
 
-This skill is generalized from [When operators get the keys to the integration stack](https://zapier.com/blog/voltt-operators-integration), a customer story with Voltt founder William Ascough. The reference implementation runs across multiple CRMs at a global multi-product business, including Cyncly, with operator-built workflows governed through a sandbox-to-production model.
+This skill is generalized from [When operators get the keys to the integration stack](https://zapier.com/blog/voltt-operators-integration), a customer story with Voltt founder William Ascough. The reference implementation runs across multiple CRMs at a global multi-product business with operator-built workflows governed through a sandbox-to-production model.
