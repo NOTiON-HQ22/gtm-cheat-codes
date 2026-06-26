@@ -2,7 +2,7 @@
 
 The coding-agent skills Zapier GTM teams use to turn scattered context into reviewable work products.
 
-This repo is a practical starter kit for GTM and customer operations teams that want to use coding agents such as Codex, Claude Code, Cursor, and similar harnesses to automate repeatable work with real business context and human approval.
+This repo is a practical starter kit for GTM and customer operations teams that want to use coding agents such as Codex, Claude Code, Cursor, and similar harnesses to automate repeatable work with real business context and human approval. 
 
 ## What This Is
 
